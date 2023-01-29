@@ -1,4 +1,5 @@
 .stfolder
 printer-*.cfg
+saved-variables.cfg
 *.bkp
 .theme
